@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zeddnyx
-- 👀 I’m interested in web scraping,etc
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in web scraping,web design,etc
+- 🌱 I’m currently learning Python,html css and JavaScript
 
 
 <!---
