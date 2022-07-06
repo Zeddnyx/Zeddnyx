@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zeddnyx
-- 👀 I’m interested in web scraping,web design,etc
-- 🌱 I’m currently learning Python,html css and JavaScript
+- 👀 I’m interested in web scraping, front-end
+- 🌱 I’m currently learning Python, css, JavaScript, bootstrap, and react js
 
 
 <!---
