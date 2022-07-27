@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Zeddnyx
-- 👀 I’m interested in web scraping, front-end
-- 🌱 I’m currently learning CSS, JAVASCRIPT, REACT JS
+- 👀 I’m interested in web scraping and front-end
+- 🌱 I’m currently learning css, JavaScript, react js
 
-Fun fact: i love listening music and learn new things:)
+- i love listening music and learn new things:)
 
 <!---
 Zeddnyx/Zeddnyx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
