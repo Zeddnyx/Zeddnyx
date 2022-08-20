@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zedd
 - 👀 I’m interested in web scraping and front-end
-- 🌱 I’m currently learning css, JavaScript, react js
+- 🌱 I’m currently learning Tailwimd CSS, JavaScript, React
 - 🙋 i love listening music and learn new things:)
 
 <!---
