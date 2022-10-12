@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zedd Nyx</h1>
 <h3 align="center">A passionate frontend developer from Indonesian</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeddnyx&label=Profile%20views&color=0e75b6&style=flat" alt="zeddnyx" /> </p>
-
 # Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/zayn.id.1257) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/zedd.nyx ) 
 
@@ -19,3 +17,5 @@
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeddnyx&label=Profile%20views&color=0e75b6&style=flat" alt="zeddnyx" /> </p>
