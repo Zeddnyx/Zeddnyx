@@ -10,10 +10,6 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-# GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=Zeddnyx&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeddnyx&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
 <!-- ## 💰You can help me by Donating -->
 <!--  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/SUNARJO) -->
 
