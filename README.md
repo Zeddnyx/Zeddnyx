@@ -18,6 +18,7 @@
 <!-- # Socials -->
 <!-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/zayn.id.1257) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/zedd.nyx ) -->
 
+#
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeddnyx&layout=compact)](https://github.com/Zeddnyx/github-readme-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeddnyx&label=Profile%20views&color=0e75b6&style=flat" alt="zeddnyx" /> </p>
