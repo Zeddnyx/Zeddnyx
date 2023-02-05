@@ -11,4 +11,5 @@
 
 <img align="right" alt="Zeddnyx's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeddnyx&layout=compact&langs_count=8&theme=onedark&border_color=30363d">
 
+<div align="center">-</div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zeddnyx&label=Profile%20views&color=0e75b6&style=flat" alt="zeddnyx" /> </p>
