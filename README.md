@@ -13,14 +13,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zeddnyx&label=Profile%20views&color=0e75b6&style=flat" alt="zeddnyx" /> </p>
 
 
-### ⚡ My tech stack
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badgee&logo=javascript&logoColor=000000&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badgee&logo=typescript&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-%23282C34?style=for-the-badgee&logo=react)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badgee&logo=react%20query&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=for-the-badgee&logo=nextdotjs)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=for-the-badgee&logo=tailwind-css)
-![Framer motion](https://img.shields.io/badge/Framer-black?style=for-the-badgee&logo=framer&logoColor=blue)
 ![Neovim](https://img.shields.io/badge/neovim-%23000000.svg?style=for-the-badgee&logo=neovim&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badgee&logo=linux&logoColor=white)
